@@ -591,6 +591,9 @@
   .bg-cyan-200 {
     background-color: var(--color-cyan-200);
   }
+  .bg-cyan-400 {
+    background-color: var(--color-cyan-400);
+  }
   .bg-cyan-600 {
     background-color: var(--color-cyan-600);
   }
@@ -944,6 +947,9 @@
     }
     .hover\:border-gray-600:hover {
       border-color: var(--color-gray-600);
+    }
+    .hover\:bg-cyan-400:hover {
+      background-color: var(--color-cyan-400);
     }
     .hover\:bg-cyan-700:hover {
       background-color: var(--color-cyan-700);
